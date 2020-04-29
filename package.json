@@ -6,9 +6,9 @@
   "author": "Andrew Kirilenko & Iron.io, Inc",
   "main": "./lib/client",
   "dependencies": {
-    "pkginfo": "0.3.0",
-    "underscore": "1.7.0",
-    "request": "2.53.0"
+    "pkginfo": "0.4.1",
+    "underscore": "1.10.2",
+    "request": "2.88.2"
   },
   "devDependencies": {
     "coffee-script": "1.6.2"
